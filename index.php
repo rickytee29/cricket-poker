@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 //start session
 session_start();
 //session_destroy();
@@ -57,8 +57,8 @@ include_once("inc/twitteroauth.php");
 	pageID = "flash";
 	</script>
 	<script type="text/javascript">var switchTo5x=true;</script>
-<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-<script type="text/javascript" src="http://s.sharethis.com/loader.js"></script>
+<script type="text/javascript" src="assets/js/buttons.js"></script>
+<script type="text/javascript" src="assets/js/loader.js"></script>
 
 
 	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -279,9 +279,9 @@ include_once("inc/twitteroauth.php");
 
 
 <!-- JavaScript libs are placed at the end of the document so the pages load faster -->
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script src="assets/js/jquery.min.js"></script>
     <script src="https://apis.google.com/js/platform.js"></script>
-	<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+	<script src="assets/js/bootstrap.min.js"></script>
 <script src="assets/js/headroom.min.js"></script>
 	<script src="assets/js/jQuery.headroom.min.js"></script>
     <script src="assets/js/jquery.validate.min.js"></script>
